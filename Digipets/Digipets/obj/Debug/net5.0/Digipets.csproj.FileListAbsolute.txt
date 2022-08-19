@@ -1,0 +1,16 @@
+C:\Users\HFGF\source\repos\Digipets\Digipets\bin\Debug\net5.0\Digipets.exe
+C:\Users\HFGF\source\repos\Digipets\Digipets\bin\Debug\net5.0\Digipets.deps.json
+C:\Users\HFGF\source\repos\Digipets\Digipets\bin\Debug\net5.0\Digipets.runtimeconfig.json
+C:\Users\HFGF\source\repos\Digipets\Digipets\bin\Debug\net5.0\Digipets.runtimeconfig.dev.json
+C:\Users\HFGF\source\repos\Digipets\Digipets\bin\Debug\net5.0\Digipets.dll
+C:\Users\HFGF\source\repos\Digipets\Digipets\bin\Debug\net5.0\ref\Digipets.dll
+C:\Users\HFGF\source\repos\Digipets\Digipets\bin\Debug\net5.0\Digipets.pdb
+C:\Users\HFGF\source\repos\Digipets\Digipets\obj\Debug\net5.0\Digipets.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\Digipets\Digipets\obj\Debug\net5.0\Digipets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Digipets\Digipets\obj\Debug\net5.0\Digipets.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Digipets\Digipets\obj\Debug\net5.0\Digipets.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Digipets\Digipets\obj\Debug\net5.0\Digipets.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Digipets\Digipets\obj\Debug\net5.0\Digipets.dll
+C:\Users\HFGF\source\repos\Digipets\Digipets\obj\Debug\net5.0\ref\Digipets.dll
+C:\Users\HFGF\source\repos\Digipets\Digipets\obj\Debug\net5.0\Digipets.pdb
+C:\Users\HFGF\source\repos\Digipets\Digipets\obj\Debug\net5.0\Digipets.genruntimeconfig.cache
